@@ -35,7 +35,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-Install them using:
 
 Datasets: Download and place the datasets (Customers.csv, Products.csv, Transactions.csv) in the root directory.
 
