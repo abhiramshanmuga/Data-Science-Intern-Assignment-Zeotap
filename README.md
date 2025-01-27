@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA) and Business Insights
 Lookalike Model
 Customer Segmentation/Clustering
 
-Files in the Repository:
+# Files in the Repository:
 1. EDA
 Code: Abhiram_Shanmuga_EDA.ipynb
 Contains Python code for performing Exploratory Data Analysis on the dataset.
@@ -27,7 +27,7 @@ Report: Abhiram_Shanmuga_Clustering.pdf
 Details the clustering results, the optimal number of clusters, the Davies-Bouldin Index, and visualizations.
 
 
-Instructions for Running the Code
+# Instructions for Running the Code
 Dependencies: Ensure you have the following libraries installed:
 
 pandas
