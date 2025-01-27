@@ -37,10 +37,6 @@ seaborn
 scikit-learn
 Install them using:
 
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn scikit-learn
 Datasets: Download and place the datasets (Customers.csv, Products.csv, Transactions.csv) in the root directory.
 
 Steps:
